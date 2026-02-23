@@ -1,4 +1,4 @@
-# US Yield Curve Spread Analysis 📈
+# US Yield Curve Spread Analysis 
 
 ## Overview
 Script to analyze the US Treasury yield curve by comparing 2-year and 10-year Treasury rates.  
