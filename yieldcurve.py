@@ -59,6 +59,3 @@ elif latest_spread < 0:
 else:
     print("Courbe plate : incertitude économique.")
 
-    spread = yield_10y - yield_2y
-plt.plot(spread)
-plt.axhline(0, linestyle='--')
